@@ -1,0 +1,6 @@
+venv
+IPV4_DNS_ADDRESSES.json
+.idea
+main_log.txt
+EC2key.pem
+EC2key_other.pem

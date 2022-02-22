@@ -1,0 +1,59 @@
+[
+  {
+      "ipv4_DNS": "real.ip.goes.here",
+      "username": "your.user.name",
+      "password": "",
+      "key_file_path": "./EC2key.pem"
+  },
+  {
+      "ipv4_DNS": "real.ip.goes.here",
+      "username": "your.user.name",
+      "password": "",
+      "key_file_path": "./EC2key.pem"
+  },
+  {
+      "ipv4_DNS": "real.ip.goes.here",
+      "username": "your.user.name",
+      "password": "",
+      "key_file_path": "./EC2key.pem"
+  },
+  {
+      "ipv4_DNS": "real.ip.goes.here",
+      "username": "your.user.name",
+      "password": "",
+      "key_file_path": "./EC2key.pem"
+  },
+  {
+      "ipv4_DNS": "real.ip.goes.here",
+      "username": "your.user.name",
+      "password": "",
+      "key_file_path": "./EC2key.pem"
+  },
+  {
+      "ipv4_DNS": "real.ip.goes.here",
+      "username": "your.user.name",
+      "password": "",
+      "key_file_path": "./EC2key.pem"
+  },
+  {
+      "ipv4_DNS": "real.ip.goes.here",
+      "username": "your.user.name",
+      "password": "",
+      "key_file_path": "./EC2key.pem"
+  },
+  {
+      "ipv4_DNS": "real.ip.goes.here",
+      "username": "your.user.name",
+      "password": "",
+      "key_file_path": "./EC2key.pem"
+  },
+  {
+      "ipv4_DNS": "real.ip.goes.here",
+      "username": "your.user.name",
+      "password": "",
+      "key_file_path": "./EC2key.pem"
+  }
+]
+
+
+
